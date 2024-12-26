@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a3d2"],{bb51:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n._self._c;return e("h2",[n._v("分类")])},u=[],c={name:"Category"},o=c,r=t("2877"),s=Object(r["a"])(o,a,u,!1,null,"59342f66",null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d21a3d2.293c44f7.js.map
